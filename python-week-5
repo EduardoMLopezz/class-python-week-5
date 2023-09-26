@@ -1,0 +1,3 @@
+# list of integers
+week5Lab = ["-23","3","2","890","43","-50","100"]
+print (week5Lab)
