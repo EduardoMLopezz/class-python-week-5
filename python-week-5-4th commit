@@ -1,0 +1,19 @@
+
+# list1
+week5Lab = ["-23","3","2","890","43","-50","100"]
+print (week5Lab [3])
+
+# list2
+uclaCollege = ["University of California at Los Angeles", 43201, "State College", bool(True),]
+print  (uclaCollege)
+
+# Dictionary , String & integer
+sjccCollege = {
+'name' : "San Jose City College"
+"students" :8584,
+"type" : "Community College",
+"hasSports" : bool(True),
+}
+print (sjccCollege)
+
+
